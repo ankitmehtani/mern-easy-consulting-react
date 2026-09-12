@@ -49,6 +49,7 @@
   },
   "overrides": {
   "postcss": "^8.4.31",
+  "autoprefixer": "^10.4.5",
   "postcss-safe-parser": "^7.0.0"
   },
   "eslintConfig": {
